@@ -3,6 +3,10 @@ Project created on Next Level Week (NLW) - Project Ecoleta - Rocketseat
 
 This project helps companies to show what prodcuts they collect for recycling and people to found where to put their recycled products.
 
+
+
+<!-- [![ecoleta](https://github.com/arb/celebrate/raw/master/images/logo.svg?sanitize=1)](https://www.npmjs.org/package/celebrate) -->
+
 ## Getting Started
 
 None.
