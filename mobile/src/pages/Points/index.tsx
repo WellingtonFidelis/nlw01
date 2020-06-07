@@ -139,7 +139,7 @@ const Points = () => {
                                 }}>
                                     <View style={styles.mapMarkerContainer}>
                                         <Image 
-                                            source={{ uri: point.image_url }}
+                                            source={{ uri: point.image }}
                                             style={styles.mapMarkerImage}
                                             ></Image>                                           
                                         <Text style={styles.mapMarkerTitle}>{point.name}</Text>

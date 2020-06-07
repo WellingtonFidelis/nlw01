@@ -19,9 +19,9 @@ class ItensController {
             return {
                 id: item.id,
                 title: item.title,
-                image_url: `http://localhost:3333/uploads/${item.image}`,
+                //image_url: `http://localhost:3333/uploads/${item.image}`,
                 // image_url para quando estiver usando o app expo mobile
-                //image_url: `http://192.168.33.106:3333/uploads/${item.image}`,
+                image_url: `http://192.168.33.106:3333/uploads/${item.image}`,
             };
         });
         return response.json(serializedItems);
