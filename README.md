@@ -4,16 +4,29 @@ Project created on Next Level Week (NLW) - Project Ecoleta - Rocketseat
 This project helps companies to show what prodcuts they collect for recycling and people to found where to put their recycled products.
 
 
-
-<!-- [![ecoleta](https://github.com/arb/celebrate/raw/master/images/logo.svg?sanitize=1)](https://www.npmjs.org/package/celebrate) -->
+[![ecoleta](https://github.com/WellingtonFidelis/nlw01/blob/master/portfolio/home_ecoleta.jpg?sanitize=1)](https://github.com/WellingtonFidelis/nlw01)
 
 ## Getting Started
 
-None.
+Add your collection points, with localization an images.
+On mobile, you can see the colletion points choosing the residues.
+
+### Desktop
+
+[![ecoleta](https://github.com/WellingtonFidelis/nlw01/blob/master/portfolio/create_point_part1_ecoleta.jpg?sanitize=1)](https://github.com/WellingtonFidelis/nlw01)
+[![ecoleta](https://github.com/WellingtonFidelis/nlw01/blob/master/portfolio/create_point_part2_ecoleta.jpg?sanitize=1)](https://github.com/WellingtonFidelis/nlw01)
+[![ecoleta](https://github.com/WellingtonFidelis/nlw01/blob/master/portfolio/create_point_part3_ecoleta.jpg?sanitize=1)](https://github.com/WellingtonFidelis/nlw01)
+
+### Mobile
+[![ecoleta](https://github.com/WellingtonFidelis/nlw01/blob/master/portfolio/mobile1.jpeg?sanitize=1)](https://github.com/WellingtonFidelis/nlw01)
+[![ecoleta](https://github.com/WellingtonFidelis/nlw01/blob/master/portfolio/mobile2.jpeg?sanitize=1)](https://github.com/WellingtonFidelis/nlw01)
+[![ecoleta](https://github.com/WellingtonFidelis/nlw01/blob/master/portfolio/mobile3.jpeg?sanitize=1)](https://github.com/WellingtonFidelis/nlw01)
+[![ecoleta](https://github.com/WellingtonFidelis/nlw01/blob/master/portfolio/mobile4.jpeg?sanitize=1)](https://github.com/WellingtonFidelis/nlw01)
+
 
 ### Prerequisites
 
-None.
+Internet and dedication.
 
 ```
 Give examples
@@ -21,29 +34,15 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+None.
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+None.
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
+None.
 
 ```
 Give an example
@@ -51,7 +50,7 @@ Give an example
 
 ### And coding style tests
 
-Explain what these tests test and why
+None.
 
 ```
 Give an example
@@ -59,34 +58,37 @@ Give an example
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+None.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [React Native](https://reactnative.dev/) - Interface
+* [Expo](https://expo.io/) - Mobile view
+* [React](https://pt-br.reactjs.org/) - Componentization, Navegation between views with .jsx
+* [SQLite](https://www.sqlite.org/index.html) - Databases
+* [Node](https://nodejs.org/en/docs/) - How the heart of the project using javascript with the simple way
+* [Express](https://expressjs.com/pt-br/) - As a simple and effective framework
+
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+None.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+None.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Diego Fernandes** - *Initial work* -  CTO | Rocketseat
+* **Wellington Fidelis** - * Finalization and customization* - Web Developer, student of Eng. of Computer.
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See more wokrs in the [git](https://github.com/WellingtonFidelis).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the [Rocketseat](https://rocketseat.com.br/).
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* None
