@@ -81,7 +81,7 @@ None.
 ## Authors
 
 * **Diego Fernandes** - *Initial work* -  CTO | Rocketseat
-* **Wellington Fidelis** - * Finalization and customization* - Web Developer, student of Eng. of Computer.
+* **Wellington Fidelis** - *Finalization and customization* - Web Developer, student of Eng. of Computer.
 
 See more wokrs in the [git](https://github.com/WellingtonFidelis).
 
